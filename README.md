@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![](https://choosealicense.com/licenses/mit/)
+![](https://github.com/hngur/kodluyoruzilkrepo/blob/main/img/screenshot.png?raw=true)
 # Installation
 Öncelikle projeyi clonelayın.
 
